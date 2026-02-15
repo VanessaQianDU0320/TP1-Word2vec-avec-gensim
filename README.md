@@ -1,5 +1,11 @@
 # README — Word2Vec Project (Fouille de données textuelles)
 
+**Note:** Due to GitHub file size limitations, datasets and trained models are not included in this repository.  
+Please download the datasets from:  
+> - Movies Dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset  
+> - Cellphone Reviews Dataset: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Cell_Phones_and_Accessories_5.json.gz
+
+
 ## Project Description
 
 This project implements the Word2Vec model using the Gensim library in Python.
